@@ -10,7 +10,7 @@ const Terms = () => {
         </h1>
 
         <p className="text-gray-700">
-          Welcome to <strong>Shipy Courier</strong>. By accessing or using our
+          Welcome to <strong>Quick Courier</strong>. By accessing or using our
           website and services, you agree to comply with and be bound by the
           following Terms & Conditions. Please read them carefully before using
           our services.
@@ -21,7 +21,7 @@ const Terms = () => {
           <div>
             <h2 className="text-xl font-semibold">1. Acceptance of Terms</h2>
             <p className="text-gray-700">
-              By using Shipy Courier’s website or services, you confirm that you
+              By using Quick Courier’s website or services, you confirm that you
               accept these Terms & Conditions. If you do not agree, please do
               not use our services.
             </p>
@@ -30,7 +30,7 @@ const Terms = () => {
           <div>
             <h2 className="text-xl font-semibold">2. Services Provided</h2>
             <p className="text-gray-700">
-              Shipy Courier offers logistics and courier solutions including
+              Quick Courier offers logistics and courier solutions including
               shipment booking, parcel tracking, and delivery management. The
               scope of services may change or improve over time.
             </p>
@@ -49,7 +49,7 @@ const Terms = () => {
           <div>
             <h2 className="text-xl font-semibold">4. Prohibited Items</h2>
             <p className="text-gray-700">
-              Shipy Courier does not allow the shipment of illegal, hazardous,
+              Quick Courier does not allow the shipment of illegal, hazardous,
               restricted, or prohibited items. The sender is fully responsible
               for the contents of the shipment.
             </p>
@@ -58,7 +58,7 @@ const Terms = () => {
           <div>
             <h2 className="text-xl font-semibold">5. Limitation of Liability</h2>
             <p className="text-gray-700">
-              Shipy Courier is not liable for delays or damages caused by factors
+              Quick Courier is not liable for delays or damages caused by factors
               beyond our control, including weather conditions, customs issues,
               or third-party service disruptions.
             </p>
@@ -68,7 +68,7 @@ const Terms = () => {
             <h2 className="text-xl font-semibold">6. Intellectual Property</h2>
             <p className="text-gray-700">
               All website content, logos, designs, and materials belong to
-              Shipy Courier and may not be copied, reused, or distributed
+              Quick Courier and may not be copied, reused, or distributed
               without prior permission.
             </p>
           </div>
@@ -76,7 +76,7 @@ const Terms = () => {
           <div>
             <h2 className="text-xl font-semibold">7. Termination of Services</h2>
             <p className="text-gray-700">
-              Shipy Courier reserves the right to suspend or terminate access to
+              Quick Courier reserves the right to suspend or terminate access to
               services if these terms are violated or if misuse is detected.
             </p>
           </div>

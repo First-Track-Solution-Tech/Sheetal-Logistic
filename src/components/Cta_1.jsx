@@ -9,7 +9,7 @@ const Cta_1 = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
         <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Ship Smarter with Shipy Courier
+              Ship Smarter with Quick Courier
             </h2>
             <p className="text-white/90 max-w-xl">
               Fast, reliable, and secure delivery solutions for businesses and individuals.

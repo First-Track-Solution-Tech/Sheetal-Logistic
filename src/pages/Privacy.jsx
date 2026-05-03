@@ -10,7 +10,7 @@ const Privacy = () => {
         </h1>
 
         <p className="text-gray-700">
-          At <strong>Shipy Courier</strong>, your privacy is important to us.
+          At <strong>Quick Courier</strong>, your privacy is important to us.
           This Privacy Policy explains how we collect, use, and protect your
           personal information when you use our website and services.
         </p>
@@ -38,7 +38,7 @@ const Privacy = () => {
           <div>
             <h2 className="text-xl font-semibold">3. Data Security</h2>
             <p className="text-gray-700">
-              Shipy Courier uses reasonable technical and organizational measures
+              Quick Courier uses reasonable technical and organizational measures
               to protect your personal data from unauthorized access, loss, or
               misuse. We regularly review our security practices to maintain
               data safety.
@@ -75,7 +75,7 @@ const Privacy = () => {
           <div>
             <h2 className="text-xl font-semibold">7. Policy Updates</h2>
             <p className="text-gray-700">
-              Shipy Courier may update this Privacy Policy periodically. Any
+              Quick Courier may update this Privacy Policy periodically. Any
               changes will be posted on this page, and continued use of our
               services indicates acceptance of the updated policy.
             </p>
@@ -90,7 +90,7 @@ const Privacy = () => {
                 href="mailto:info@shipycourier.com"
                 className="text-blue-600 underline"
               >
-                info@shipycourier.com
+                info@quickcourier.in
               </a>
               .
             </p>

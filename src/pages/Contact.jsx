@@ -55,7 +55,7 @@ const Contact = () => {
             
             <div className="flex gap-3">
               <Mail className="text-blue-600" size={20} />
-              <p>info@shipycourier.com</p>
+              <p>info@quickcourier.in</p>
             </div>
           </div>
 

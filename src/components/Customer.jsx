@@ -8,7 +8,7 @@ const testimonials = [
     role: "E-commerce Seller",
     image: null,
     review:
-      "Shipy Courier has completely streamlined our deliveries. On-time pickups and accurate tracking every time.",
+      "Quick Courier has completely streamlined our deliveries. On-time pickups and accurate tracking every time.",
     rating: 5,
   },
   {
@@ -26,7 +26,7 @@ const testimonials = [
     role: "Logistics Manager",
     image: null,
     review:
-      "Real-time tracking and professional handling make Shipy Courier our trusted delivery partner.",
+      "Real-time tracking and professional handling make Quick Courier our trusted delivery partner.",
     rating: 4,
   },
 ];

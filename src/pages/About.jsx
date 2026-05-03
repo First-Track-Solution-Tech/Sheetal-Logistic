@@ -2,7 +2,7 @@ import React from 'react'
 import { assets } from '../assets/assets'
 import Ourservices from '../components/Ourservices'
 import { Truck, Globe, Handshake } from "lucide-react";
-import Whyshipy from '../components/Whyshipy';
+import Whyquick from '../components/Whyquick';
 
 
 
@@ -20,7 +20,7 @@ const About = () => {
     </section>
     <section className='py-8 max-w-5xl mx-auto px-4'>
         <p className='text-gray-700 text-lg text-center'>
-<strong>Shipy Courier</strong> is a modern and reliable courier service built to simplify the way shipments are sent, tracked, and delivered. We provide fast, secure, and efficient logistics solutions for individuals and businesses, ensuring every package is handled with care from pickup to final delivery. With a strong focus on timely service, transparent tracking, and customer satisfaction, Shipy Courier makes shipping stress-free and dependable, whether it’s a local delivery or a long-distance shipment.
+<strong>Quick Courier</strong> is a modern and reliable courier service built to simplify the way shipments are sent, tracked, and delivered. We provide fast, secure, and efficient logistics solutions for individuals and businesses, ensuring every package is handled with care from pickup to final delivery. With a strong focus on timely service, transparent tracking, and customer satisfaction, Quick Courier makes shipping stress-free and dependable, whether it’s a local delivery or a long-distance shipment.
         </p>
     </section>
     <section className="py-16 bg-gray-50">
@@ -144,7 +144,7 @@ const About = () => {
     </div>
   </div>
 </section>
-<Whyshipy/>
+<Whyquick/>
 
 
     </>

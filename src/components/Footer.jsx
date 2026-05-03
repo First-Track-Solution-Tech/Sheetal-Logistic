@@ -20,7 +20,7 @@ const Footer = () => {
           
           <div>
             <h2 className="text-2xl font-bold text-blue-600">
-              Shipy <span className="text-green-500">Courier</span>
+              Quick <span className="text-green-500">Courier</span>
             </h2>
             <p className="mt-4 text-sm text-gray-600 leading-relaxed">
               Smart logistics built for speed, transparency, and a smoother delivery experience.
@@ -42,7 +42,7 @@ const Footer = () => {
               </li>
               <li className="flex gap-2">
                 <Mail size={18} className="text-green-500" />
-                info@shipycourier.com
+                info@quickcourier.in
               </li>
             </ul>
           </div>
@@ -109,7 +109,7 @@ const Footer = () => {
       
       <div className="bg-black text-gray-300 px-6 md:px-16 py-4 flex flex-col md:flex-row justify-between items-center text-sm">
         <p>
-          © {new Date().getFullYear()} <span className="text-white">Shipy Courier</span>.
+          © {new Date().getFullYear()} <span className="text-white">Quick Courier</span>.
           All rights reserved.
         </p>
 
