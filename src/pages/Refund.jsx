@@ -126,7 +126,7 @@ const Refund = () => {
               For questions regarding refunds or cancellations, please contact us
               at
               <span className="text-emerald-600 font-medium">
-                {" "}info@quickcourier.in
+                {" "}quickcourier.in
               </span>.
             </p>
           </div>
