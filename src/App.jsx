@@ -29,6 +29,8 @@ function App(){
         <Route path='/term' element={<Terms/>}/>
         <Route path='/refund' element={<Refund/>}/>
         <Route path='/faq' element={<Faq/>}/>
+        
+
 
          
       </Route>

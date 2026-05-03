@@ -53,7 +53,7 @@ const Stat = () => {
         
         <div className="mt-14 text-center">
           <h2 className="text-3xl md:text-4xl font-bold">
-            Ready to Ship Smarter with Shipy?
+            Ready to Ship Smarter with Quick ?
           </h2>
           <p className="mt-4 text-white/80 max-w-2xl mx-auto">
             Connect With Us To Experience Fast And Trustable Deliveries

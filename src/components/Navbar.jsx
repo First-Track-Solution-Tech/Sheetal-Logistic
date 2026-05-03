@@ -18,12 +18,12 @@ export default function Navbar() {
       <div className="h-16 flex items-center justify-between px-4 md:px-10">
         
         <Link to="/" className="flex items-center">
-           <img
-             src={assets.Shipy_logo}
-             alt="Shipy Logo"
-             className="h-35 w-auto object-contain filter brightness-200 contrast-200"
-           />
-         </Link>
+  <img
+    src={assets.Shipy_logo}
+    alt="Quick Logo"
+    className="h-23 w-auto object-contain brightness-0 invert -mt-1"
+  />
+</Link>
 
 
         {/* Desktop Menu */}
@@ -140,7 +140,7 @@ export default function Navbar() {
 //           <Link to="/" className="flex items-center gap-3">
 //             <img
 //               src={assets.Shipy_logo}
-//               alt="Shipy Courier"
+//               alt="Quick Courier"
 //               className="h-35 w-auto object-contain filter brightness-200 contrast-200"
 //             />
             

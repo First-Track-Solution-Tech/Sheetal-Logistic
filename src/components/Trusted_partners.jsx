@@ -21,7 +21,7 @@ const Trusted_partners = () => {
             Trusted by Our Partners
           </h2>
           <p className="text-gray-500 mt-2">
-            Companies that trust Shipy Courier for reliable delivery
+            Companies that trust Quick Courier for reliable delivery
           </p>
         </div>
 

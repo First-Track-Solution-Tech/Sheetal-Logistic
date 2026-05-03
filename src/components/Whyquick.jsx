@@ -27,13 +27,13 @@ const features = [
   }
 ]
 
-const Whyshipy = () => {
+const Whyquick = () => {
   return (
     <section className="bg-gray-50 py-20 px-4">
     <div className='max-w-7xl mx-auto'>
 <div className="text-center mb-14">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
-            Why Shipy Courier?
+            Why Quick Courier?
           </h2>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
             We simplify shipping with speed, security, and smart technology —
@@ -64,4 +64,4 @@ const Whyshipy = () => {
   )
 }
 
-export default Whyshipy
+export default Whyquick

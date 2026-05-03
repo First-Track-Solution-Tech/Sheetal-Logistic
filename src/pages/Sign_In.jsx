@@ -9,7 +9,7 @@ const Sign_In = () => {
       
       <div className="hidden md:flex flex-col justify-center px-16 bg-gradient-to-br from-blue-600 to-green-500 text-white">
         <h1 className="text-4xl font-bold mb-4">
-          Welcome back to Shipy Courier
+          Welcome back to Quick Courier
         </h1>
         <p className="text-lg opacity-90">
           Track, manage and deliver shipments effortlessly with us.
@@ -24,7 +24,7 @@ const Sign_In = () => {
             Sign In
           </h2>
           <p className="text-sm text-gray-500 text-center mt-2">
-            Access your Shipy account
+            Access your account
           </p>
 
           <form className="mt-8 space-y-5">

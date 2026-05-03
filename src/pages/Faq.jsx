@@ -2,9 +2,9 @@ import React, { useState } from "react";
 
 const faqs = [
   {
-    question: "What services does Shipy Courier offer?",
+    question: "What services does Quick Courier offer?",
     answer:
-      "Shipy Courier provides reliable parcel delivery services including local pickups, city-to-city shipping, and nationwide courier solutions for businesses and individuals.",
+      "Quick Courier provides reliable parcel delivery services including local pickups, city-to-city shipping, and nationwide courier solutions for businesses and individuals.",
   },
   {
     question: "How can I track my shipment?",
@@ -43,7 +43,7 @@ const Faq = () => {
           Frequently Asked Questions
         </h1>
         <p className="mt-3 text-gray-500">
-          Everything you need to know about Shipy Courier services
+          Everything you need to know about Quick Courier services
         </p>
       </div>
 

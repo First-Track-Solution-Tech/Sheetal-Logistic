@@ -11,7 +11,7 @@ const Refund = () => {
         <div className="space-y-8 text-gray-700 text-sm md:text-base leading-relaxed">
           <p>
             This Refund & Cancellation Policy explains how order cancellations,
-            refunds, and related requests are handled by Shipy Courier. By using
+            refunds, and related requests are handled by Quick Courier. By using
             our services, you agree to the terms described below.
           </p>
 
@@ -97,7 +97,7 @@ const Refund = () => {
               5. Lost or Damaged Shipments
             </h2>
             <p>
-              In the event of a lost or damaged shipment, Shipy Courier may review
+              In the event of a lost or damaged shipment, Quick Courier may review
               the case for possible compensation. Claims are assessed based on
               shipment value, supporting documents, and investigation outcomes.
             </p>
@@ -112,7 +112,7 @@ const Refund = () => {
               6. Policy Changes
             </h2>
             <p>
-              Shipy Courier reserves the right to update this policy at any time.
+              Quick Courier reserves the right to update this policy at any time.
               Any changes will take effect immediately once published on this
               page.
             </p>
@@ -126,7 +126,7 @@ const Refund = () => {
               For questions regarding refunds or cancellations, please contact us
               at
               <span className="text-emerald-600 font-medium">
-                {" "}info@shipycourier.com
+                {" "}info@quickcourier.in
               </span>.
             </p>
           </div>

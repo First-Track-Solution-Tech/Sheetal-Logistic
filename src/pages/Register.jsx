@@ -9,7 +9,7 @@ const Register = () => {
       
       <div className="hidden md:flex flex-col justify-center px-16 bg-gradient-to-br from-blue-600 to-green-500 text-white">
         <h1 className="text-4xl font-bold mb-4">
-          Welcome to Shipy Courier
+          Welcome to Quick Courier
         </h1>
         <p className="text-lg opacity-90">
           Track, manage and deliver shipments effortlessly with us.
@@ -23,7 +23,7 @@ const Register = () => {
             Register
           </h2>
           <p className="text-sm text-gray-500 text-center mt-2">
-            Create your Shipy account
+            Create your Quick account
           </p>
           <form className="mt-8 space-y-5">
 
