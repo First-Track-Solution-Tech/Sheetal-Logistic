@@ -40,16 +40,35 @@ const Register = () => {
                       </div>
 
                       <div>
-                        <label className="text-sm text-gray-600">Phone</label>
-                        <div className="flex items-center border rounded-lg px-3 mt-1">
-                          <Phone size={18} className="text-gray-400" />
-                          <input
-                            type="tel"
-                            placeholder="enter mobile no"
-                            className="w-full px-2 py-3 outline-none text-sm"
-                          />
-                        </div>
-                      </div>
+  <label className="text-sm text-gray-600">Phone</label>
+  <div className="flex items-center border rounded-lg mt-1 overflow-hidden">
+    
+    {/* Country dial code dropdown */}
+    <div className="flex items-center border-r px-2 bg-gray-50">
+      <Phone size={16} className="text-gray-400 mr-1 shrink-0" />
+      <select className="bg-transparent text-sm text-gray-700 outline-none py-3 pr-1 cursor-pointer">
+        <option value="+91">🇮🇳 +91</option>
+        <option value="+1">🇺🇸 +1</option>
+        <option value="+44">🇬🇧 +44</option>
+        <option value="+61">🇦🇺 +61</option>
+        <option value="+971">🇦🇪 +971</option>
+        <option value="+65">🇸🇬 +65</option>
+        <option value="+60">🇲🇾 +60</option>
+        <option value="+880">🇧🇩 +880</option>
+        <option value="+92">🇵🇰 +92</option>
+        <option value="+94">🇱🇰 +94</option>
+        <option value="+977">🇳🇵 +977</option>
+      </select>
+    </div>
+
+    {/* Phone number input */}
+    <input
+      type="tel"
+      placeholder="Enter mobile number"
+      className="w-full px-3 py-3 outline-none text-sm"
+    />
+  </div>
+</div>
           <div>
                         <label className="text-sm text-gray-600">Email</label>
                         <div className="flex items-center border rounded-lg px-3 mt-1">
@@ -70,6 +89,17 @@ const Register = () => {
                           <input
                             type="password"
                             placeholder="••••••••"
+                            className="w-full px-2 py-3 outline-none text-sm"
+                          />
+                        </div>
+                      </div>
+                      <div>
+                        <label className="text-sm text-gray-600">Business Name</label>
+                        <div className="flex items-center border rounded-lg px-3 mt-1">
+                          <CircleUser size={18} className="text-gray-400" />
+                          <input
+                            type="text"
+                            placeholder="enter your business namne"
                             className="w-full px-2 py-3 outline-none text-sm"
                           />
                         </div>
