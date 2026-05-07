@@ -30,17 +30,17 @@ const Sign_In = () => {
           <form className="mt-8 space-y-5">
 
             
-            <div>
-              <label className="text-sm text-gray-600">Email</label>
-              <div className="flex items-center border rounded-lg px-3 mt-1">
-                <Mail size={18} className="text-gray-400" />
-                <input
-                  type="email"
-                  placeholder="you@example.com"
-                  className="w-full px-2 py-3 outline-none text-sm"
-                />
-              </div>
-            </div>
+           <div>
+  <label className="text-sm text-gray-600">Email or Mobile Number</label>
+  <div className="flex items-center border rounded-lg px-3 mt-1">
+    <Mail size={18} className="text-gray-400" />
+    <input
+      type="text"
+      placeholder="you@example.com or 9876543210"
+      className="w-full px-2 py-3 outline-none text-sm"
+    />
+  </div>
+</div>
 
             
             <div>
