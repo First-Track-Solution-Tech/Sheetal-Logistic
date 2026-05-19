@@ -17,10 +17,10 @@ export default function Navbar() {
 
         <Link to="/" className="flex items-center">
           <img
-            src={assets.Shipy_logo}
-            alt="Quick Logo"
-            className="h-23 w-auto object-contain brightness-0 invert -mt-1"
-          />
+  src={assets.quick_logo}
+  alt="Quick Logo"
+  className="h-12 md:h-30 w-auto object-contain"
+ />
         </Link>
 
         {/* Desktop Menu */}

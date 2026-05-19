@@ -8,7 +8,8 @@ import blog_hero from '../assets/blog_hero.jpg'
 import future_ai from '../assets/future_ai.jpg'
 import green_delivery from '../assets/green_delivery.jpg'
 import fast_delivery from '../assets/fast_delivery.jpg'
-import Shipy_logo from '../assets/Shipy_logo.png'
+import quick_logo from '../assets/quick_logo.png'
+import quick_logo_index from '../assets/quick_logo_index.png'
 
 export const assets ={
     hero1,
@@ -21,5 +22,6 @@ export const assets ={
     green_delivery,
     fast_delivery,
     future_ai,
-    Shipy_logo
+    quick_logo,
+    quick_logo_index
  }
